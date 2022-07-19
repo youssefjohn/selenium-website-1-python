@@ -1,0 +1,391 @@
+1657969656606	geckodriver	INFO	Listening on 127.0.0.1:54296
+1657969659715	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54297" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Foundry\\AppData\\Local\\Temp\\rust_mozprofilePOuX99"
+1657969660390	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:54297
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Foundry\\AppData\\Local\\Temp\\rust_mozprofilePOuX99\\search.json.mozlz4", (void 0)))
+1657969662539	Marionette	INFO	Listening on port 54323
+Read port: 54323
+DevTools listening on ws://localhost:54297/devtools/browser/1379b183-6628-4614-b36d-c1c0dfb0fbbf
+1657969662627	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1657969840843	Marionette	INFO	Stopped listening on port 54323
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "54389" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Foundry\\AppData\\Local\\Temp\\rust_mozprofileC3uExS"
+1657969669657	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:54389
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Foundry\\AppData\\Local\\Temp\\rust_mozprofileC3uExS\\search.json.mozlz4", (void 0)))
+1657969671287	Marionette	INFO	Listening on port 54412
+DevTools listening on ws://localhost:54389/devtools/browser/c6b601ac-6659-4153-a61d-8e3123144f85
+Read port: 54412
+1657969671408	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1657969840342	Marionette	INFO	Stopped listening on port 54412
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "54501" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Foundry\\AppData\\Local\\Temp\\rust_mozprofileM0LRcy"
+1657969680989	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:54501
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Foundry\\AppData\\Local\\Temp\\rust_mozprofileM0LRcy\\search.json.mozlz4", (void 0)))
+1657969682632	Marionette	INFO	Listening on port 54527
+DevTools listening on ws://localhost:54501/devtools/browser/88fa72fe-f8dd-4f03-a10c-1d1b061df083
+Read port: 54527
+1657969682720	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1657969839672	Marionette	INFO	Stopped listening on port 54527
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "54613" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Foundry\\AppData\\Local\\Temp\\rust_mozprofile6Xuqiy"
+1657969697354	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:54613
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Foundry\\AppData\\Local\\Temp\\rust_mozprofile6Xuqiy\\search.json.mozlz4", (void 0)))
+1657969698983	Marionette	INFO	Listening on port 54636
+DevTools listening on ws://localhost:54613/devtools/browser/5b10d8c5-8ffc-462c-9326-42ff8f39c203
+Read port: 54636
+1657969699128	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1657969833991	Marionette	INFO	Stopped listening on port 54636
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "54722" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Foundry\\AppData\\Local\\Temp\\rust_mozprofilev6hjYV"
+1657969714894	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:54722
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Foundry\\AppData\\Local\\Temp\\rust_mozprofilev6hjYV\\search.json.mozlz4", (void 0)))
+1657969716572	Marionette	INFO	Listening on port 54746
+DevTools listening on ws://localhost:54722/devtools/browser/7c056b4e-5c96-46c4-aa31-f1ef4739bd64
+Read port: 54746
+1657969716637	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1657969831810	Marionette	INFO	Stopped listening on port 54746
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+ofilep3udEe"
+1657969726645	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:54840
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Foundry\\AppData\\Local\\Temp\\rust_mozprofilep3udEe\\search.json.mozlz4", (void 0)))
+1657969728352	Marionette	INFO	Listening on port 54864
+Read port: 54864
+DevTools listening on ws://localhost:54840/devtools/browser/1a3ab2b6-876b-4215-bb66-909f43009d39
+1657969728401	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1657969831388	Marionette	INFO	Stopped listening on port 54864
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "54956" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Foundry\\AppData\\Local\\Temp\\rust_mozprofileJbcEK9"
+1657969740335	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:54956
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Foundry\\AppData\\Local\\Temp\\rust_mozprofileJbcEK9\\search.json.mozlz4", (void 0)))
+1657969742021	Marionette	INFO	Listening on port 54982
+DevTools listening on ws://localhost:54956/devtools/browser/a557e9ab-4886-4166-b7ee-07be916c8cb2
+Read port: 54982
+1657969742121	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1657969830950	Marionette	INFO	Stopped listening on port 54982
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+ofilemkiGHx"
+1657969757803	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:55061
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Foundry\\AppData\\Local\\Temp\\rust_mozprofilemkiGHx\\search.json.mozlz4", (void 0)))
+1657969759549	Marionette	INFO	Listening on port 55088
+DevTools listening on ws://localhost:55061/devtools/browser/5e486338-cc94-4b03-94c8-9b1e024cb016
+Read port: 55088
+1657969759648	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1657969830446	Marionette	INFO	Stopped listening on port 55088
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "55177" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Foundry\\AppData\\Local\\Temp\\rust_mozprofileIYYkYJ"
+1657969775562	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:55177
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Foundry\\AppData\\Local\\Temp\\rust_mozprofileIYYkYJ\\search.json.mozlz4", (void 0)))
+1657969777353	Marionette	INFO	Listening on port 55205
+DevTools listening on ws://localhost:55177/devtools/browser/e22d0b06-0b70-4e51-8bb0-f445eabab6fb
+Read port: 55205
+1657969777485	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1657969829907	Marionette	INFO	Stopped listening on port 55201657969830139	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55328" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Foundry\\AppData\\Local\\Temp\\rust_mozprofilewpDeWm"
+1657969830697	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:55328
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Foundry\\AppData\\Local\\Temp\\rust_mozprofilewpDeWm\\search.json.mozlz4", (void 0)))
+1657969832779	Marionette	INFO	Listening on port 55357
+Read port: 55357
+1657969832812	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:55328/devtools/browser/5da0989f-6d0d-4ede-9fbf-5f04de53a9dc
+1657969833356	Marionette	INFO	Stopped listening on port 55357
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/TerminatorTelemetry.jsm, line 71: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+1657969961091	geckodriver	INFO	Listening on 127.0.0.1:55791
+1657969964157	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55792" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Foundry\\AppData\\Local\\Temp\\rust_mozprofileynIXFs"
+1657969964537	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:55792
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Foundry\\AppData\\Local\\Temp\\rust_mozprofileynIXFs\\search.json.mozlz4", (void 0)))
+1657969966486	Marionette	INFO	Listening on port 55815
+DevTools listening on ws://localhost:55792/devtools/browser/0e11b57e-20c3-4d38-b32a-4fb536cf759a
+Read port: 55815
+1657969966586	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/admin/lib/jquery/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.80032.1, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.80032.1, line 564: unreachable code after return statement
+1657969969666	Marionette	INFO	Stopped listening on port 55815
+[Parent 19960, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1657969970451	geckodriver	INFO	Listening on 127.0.0.1:55883
+1657969973511	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55884" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Foundry\\AppData\\Local\\Temp\\rust_mozprofilemhuZV5"
+1657969973915	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:55884
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Foundry\\AppData\\Local\\Temp\\rust_mozprofilemhuZV5\\search.json.mozlz4", (void 0)))
+1657969975681	Marionette	INFO	Listening on port 55909
+DevTools listening on ws://localhost:55884/devtools/browser/89935a62-c05b-4281-95ac-523d6fae5384
+Read port: 55909
+1657969975723	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/admin/lib/jquery/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.80032.1, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.80032.1, line 564: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/admin/lib/jquery/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.80032.1, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.80032.1, line 564: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/admin/lib/jquery/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.80032.1, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.80032.1, line 564: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/admin/lib/jquery/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1657970008844	Marionette	INFO	Stopped listening on port 55909
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.80032.1, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.80032.1, line 564: unreachable code after return statement
+1657970009688	geckodriver	INFO	Listening on 127.0.0.1:55991
+1657970012750	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55992" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Foundry\\AppData\\Local\\Temp\\rust_mozprofile8YsCH0"
+1657970013127	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:55992
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Foundry\\AppData\\Local\\Temp\\rust_mozprofile8YsCH0\\search.json.mozlz4", (void 0)))
+1657970014816	Marionette	INFO	Listening on port 56014
+DevTools listening on ws://localhost:55992/devtools/browser/47a396a0-daa4-4581-b490-dd42ca6433d1
+Read port: 56014
+1657970014852	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/admin/lib/jquery/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.80032.1, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.80032.1, line 564: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/admin/lib/jquery/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.80032.1, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.80032.1, line 564: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1657970020671	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/admin/lib/jquery/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.80032.1, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.80032.1, line 564: unreachable code after return statement
+1657970026680	Marionette	INFO	Stopped listening on port 56014
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 9636, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1657970027934	geckodriver	INFO	Listening on 127.0.0.1:56098
+1657970030991	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56099" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Foundry\\AppData\\Local\\Temp\\rust_mozprofiletgUUyN"
+1657970031359	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:56099
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Foundry\\AppData\\Local\\Temp\\rust_mozprofiletgUUyN\\search.json.mozlz4", (void 0)))
+1657970033093	Marionette	INFO	Listening on port 56124
+DevTools listening on ws://localhost:56099/devtools/browser/15538a1b-c99d-4131-ba75-c25434cf210e
+Read port: 56124
+1657970033200	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/admin/lib/jquery/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.80032.1, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.80032.1, line 564: unreachable code after return statement
+1657970041510	Marionette	INFO	Stopped listening on port 56124
+[Parent 29948, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1657970042169	geckodriver	INFO	Listening on 127.0.0.1:56192
+1657970045211	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56193" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Foundry\\AppData\\Local\\Temp\\rust_mozprofile1mS3tu"
+1657970045573	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:56193
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Foundry\\AppData\\Local\\Temp\\rust_mozprofile1mS3tu\\search.json.mozlz4", (void 0)))
+1657970047198	Marionette	INFO	Listening on port 56215
+DevTools listening on ws://localhost:56193/devtools/browser/f4dbc49a-32c3-42d2-b1ba-7cef452c0b79
+Read port: 56215
+1657970047324	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/admin/lib/jquery/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.80032.1, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.80032.1, line 564: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/admin/lib/jquery/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.80032.1, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.80032.1, line 564: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/admin/lib/jquery/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.80032.1, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.80032.1, line 564: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/admin/lib/jquery/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1657970053977	Marionette	INFO	Stopped listening on port 56215
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 896, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1657970054986	geckodriver	INFO	Listening on 127.0.0.1:56296
+1657970058043	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56297" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Foundry\\AppData\\Local\\Temp\\rust_mozprofilegtr0Q5"
+1657970058408	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:56297
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Foundry\\AppData\\Local\\Temp\\rust_mozprofilegtr0Q5\\search.json.mozlz4", (void 0)))
+1657970060082	Marionette	INFO	Listening on port 56322
+DevTools listening on ws://localhost:56297/devtools/browser/8630a657-cc08-450f-9544-aa71ac3ea2d0
+Read port: 56322
+1657970060146	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/admin/lib/jquery/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.80032.1, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.80032.1, line 564: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/admin/lib/jquery/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.80032.1, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.80032.1, line 564: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1657970064300	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/admin/lib/jquery/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.80032.1, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.80032.1, line 564: unreachable code after return statement
+1657970065391	Marionette	INFO	Stopped listening on port 56322
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 22516, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1657970066066	geckodriver	INFO	Listening on 127.0.0.1:56398
+1657970069145	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56399" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Foundry\\AppData\\Local\\Temp\\rust_mozprofilelIdNhM"
+1657970069508	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:56399
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Foundry\\AppData\\Local\\Temp\\rust_mozprofilelIdNhM\\search.json.mozlz4", (void 0)))
+1657970071098	Marionette	INFO	Listening on port 56426
+Read port: 56426
+1657970071134	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:56399/devtools/browser/55367853-9215-4fb0-865f-3a59a3b8ed77
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/admin/lib/jquery/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.80032.1, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.80032.1, line 564: unreachable code after return statement
+1657970080206	Marionette	INFO	Stopped listening on port 56426
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 28888, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1657970081360	geckodriver	INFO	Listening on 127.0.0.1:56490
+1657970084435	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56491" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Foundry\\AppData\\Local\\Temp\\rust_mozprofileiLvqWF"
+1657970084848	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:56491
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Foundry\\AppData\\Local\\Temp\\rust_mozprofileiLvqWF\\search.json.mozlz4", (void 0)))
+1657970086600	Marionette	INFO	Listening on port 56514
+DevTools listening on ws://localhost:56491/devtools/browser/361a4ccc-b768-4822-8c5c-be31f1ae882d
+Read port: 56514
+1657970086646	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/admin/lib/jquery/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.80032.1, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.80032.1, line 564: unreachable code after return statement
+1657970095582	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/admin/lib/jquery/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.80032.1, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.80032.1, line 564: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/admin/lib/jquery/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.80032.1, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.80032.1, line 564: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/admin/lib/jquery/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1657970100599	Marionette	INFO	Stopped listening on port 56514
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1657970101706	geckodriver	INFO	Listening on 127.0.0.1:56602
+1657970104752	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56603" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Foundry\\AppData\\Local\\Temp\\rust_mozprofileTZrpzK"
+1657970105122	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:56603
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Foundry\\AppData\\Local\\Temp\\rust_mozprofileTZrpzK\\search.json.mozlz4", (void 0)))
+1657970106835	Marionette	INFO	Listening on port 56627
+Read port: 56627
+1657970106852	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:56603/devtools/browser/2be84b1c-0857-4d79-8862-8f751764a6c8
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/admin/lib/jquery/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.80032.1, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.80032.1, line 564: unreachable code after return statement
+1657970109918	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/admin/lib/jquery/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.80032.1, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.80032.1, line 564: unreachable code after return statement
+1657970111131	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/admin/lib/jquery/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.80032.1, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.80032.1, line 564: unreachable code after return statement
+1657970112279	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/admin/lib/jquery/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.80032.1, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.80032.1, line 564: unreachable code after return statement
+JavaScript error: https://faye.getstream.io/faye?message=%5B%7B%22channel%22%3A%22%2Fmeta%2Fconnect%22%2C%22clientId%22%3A%221-49b0706f-0a32-4653-b1e7-2c424bd76459%22%2C%22connectionType%22%3A%22callback-polling%22%2C%22id%22%3A%224%22%7D%5D&jsonp=__jsonp3__, line 1: ReferenceError: __jsonp3__ is not defined
+1657970146094	Marionette	INFO	Stopped listening on port 56627
+1657970146904	geckodriver	INFO	Listening on 127.0.0.1:56723
+1657970149967	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56724" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Foundry\\AppData\\Local\\Temp\\rust_mozprofileHM7ZPn"
+1657970150341	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:56724
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Foundry\\AppData\\Local\\Temp\\rust_mozprofileHM7ZPn\\search.json.mozlz4", (void 0)))
+1657970152206	Marionette	INFO	Listening on port 56749
+DevTools listening on ws://localhost:56724/devtools/browser/2204c756-45b1-48af-90b6-78ff0877506a
+Read port: 56749
+1657970152289	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/admin/lib/jquery/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.80032.1, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.80032.1, line 564: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/admin/lib/jquery/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.80032.1, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.80032.1, line 564: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/admin/lib/jquery/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.80032.1, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.80032.1, line 564: unreachable code after return statement
+1657970160687	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1657970161872	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/admin/lib/jquery/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.80032.1, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.80032.1, line 564: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/admin/lib/jquery/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.80032.1, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.80032.1, line 564: unreachable code after return statement
+1657970173652	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1657970174866	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1657970175077	Marionette	INFO	Stopped listening on port 56749
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
