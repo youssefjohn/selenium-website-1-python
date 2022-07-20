@@ -20,7 +20,7 @@ class TestSignInPage(unittest.TestCase):
 
     @pytest.mark.run(order=1)
     def test_login_unsuccessful(self):
-        assert not self.SIP.verify_login_result("youssef_moustahib@hotmail.com", "moustasdfash1b1")
+        assert not self.SIP.verify_login_result("youssef_moustahib@hotmail.com", "sdfsdjvsd")
 
 
 

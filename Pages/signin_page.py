@@ -1,10 +1,14 @@
+import logging
+
 from Base.base_driver import BaseDriver
 from selenium.webdriver.common.by import By
 from selenium.common.exceptions import *
 
+from Utilities.utils import custom_logger
 
 
 class SignInPage(BaseDriver):
+    log = custom_logger(logLevel=logging.INFO)
     def __init__(self, driver):
         super().__init__(driver)
         self.driver = driver
@@ -19,8 +23,9 @@ class SignInPage(BaseDriver):
 
 
     def click_on_sign_up(self):
+        self.log.info("Clicking on Sign Up button")
         self.driver.find_element(*self.SIGN_UP_BTN).click()
-        print("Clicking on Sign Up")
+
 
 
     def login(self, email, password):
@@ -34,10 +39,10 @@ class SignInPage(BaseDriver):
             self.login(email, password)
             user_icon = self.driver.find_element(*self.USER_ACCOUNT_ICON)
         except NoSuchElementException:
-            print("Login UNSUCCESSFUL")
+            self.log.error("*** Login was: UNSUCCESSFUL ***")
             return False
         else:
-            print("Login SUCCESSFUL")
+            self.log.info("Login Successful")
             return True
 
 

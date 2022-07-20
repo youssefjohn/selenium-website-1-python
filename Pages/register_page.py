@@ -33,6 +33,7 @@ class RegisterPage(BaseDriver):
 
 
     def register_user(self, email, password, confirm_password):
+        self.log.info("Beginning 'register_user' function")
         self.action = ActionChains(self.driver)
         self.HP = HomePage(driver=self.driver)
         self.SI = SignInPage(driver=self.driver)
@@ -45,6 +46,7 @@ class RegisterPage(BaseDriver):
         self.driver.find_element(*self.PASSWORD_CONFIRM_FIELD).send_keys(confirm_password)
         self.action.move_to_element(self.driver.find_element(*self.SIGNUP_BTN)).click().perform()
         #self.driver.find_element(*self.SIGNUP_BTN).click()
+        self.log.info("Ending 'register_user' function")
 
 
     def check_successful(self):
@@ -55,10 +57,10 @@ class RegisterPage(BaseDriver):
             self.register_user(email=email, password=password, confirm_password=password)
             user_icon = self.driver.find_element(*self.SI.USER_ACCOUNT_ICON)
         except NoSuchElementException:
-            self.log.info("Sign up was unsuccessful")
+            self.log.error("Sign up was: *** UNSUCCESSFUL ***")
             return False
         else:
-            self.log.info("Sign Up SUCCESSFUL")
+            self.log.info("Sign Up was: Successful")
             return True
 
 
@@ -68,9 +70,10 @@ class RegisterPage(BaseDriver):
             # Investigate why the duplicate message only appears 70% of the time
             element = self.wait_for_presence_of_element(*self.DUPLICATE_EMAIL)
         except NoSuchElementException:
-            print("'Duplicate email' message is not appearing")
+            self.log.error("Duplicate email message displaying: *** NO ***")
             return False
         else:
+            self.log.info("Duplicate email message displaying: Yes")
             return True
 
 
@@ -82,9 +85,11 @@ class RegisterPage(BaseDriver):
             self.register_user(email, password1, password2)
             element = self.driver.find_element(*self.PASSWORDS_DONT_MATCH)
         except NoSuchElementException:
-            print("'Password not matching message' is not appearing")
+
+            self.log.error("Password not matching message displaying:  *** NO ***")
             return False
         else:
+            self.log.info("Password not matching message displaying: Yes")
             return True
 
 

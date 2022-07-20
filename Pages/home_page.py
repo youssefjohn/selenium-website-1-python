@@ -1,14 +1,18 @@
+from Base.base_driver import BaseDriver
+from Utilities.utils import custom_logger
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.select import Select
 from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.common.window import WindowTypes
 import time
+import logging
 
-from Base.base_driver import BaseDriver
 
 
 class HomePage(BaseDriver):
+    log = custom_logger(logLevel=logging.INFO)
+
     def __init__(self, driver):
         super().__init__(driver)
         self.driver = driver
@@ -32,22 +36,27 @@ class HomePage(BaseDriver):
     FIXED_NUM_OF_BOXES = 3
 
     def click_home_btn(self):
+        self.log.info("Clicking home button")
         self.driver.find_element(*self.HOME_BTN).click()
 
 
     def click_logo_btn(self):
+        self.log.info("Clicking logo button")
         self.driver.find_element(*self.LOGO).click()
 
 
     def click_all_courses_btn(self):
+        self.log.info("Clicking all courses button")
         self.driver.find_element(*self.ALL_COURSES_BTN).click()
 
 
     def click_support_btn(self):
+        self.log.info("Clicking support button")
         self.driver.find_element(*self.SUPPORT_BTN).click()
 
 
     def click_signin_btn(self):
+        self.log.info("Clicking sign in button")
         self.driver.find_element(*self.SIGNIN_BTN).click()
 
 
@@ -55,11 +64,13 @@ class HomePage(BaseDriver):
         try:
             click_function()
         except:
-            print("Button not clickable")
+            self.log.error("Button is clickable: *** UNSUCCESSFUL ***")
         else:
             if self.driver.current_url == target_url:
+                self.log.info("Current URL is equal to Target URL")
                 return True
             else:
+                self.log.error("*** Current URL is not equal to Target URL ***")
                 return False
 
 
@@ -71,8 +82,9 @@ class HomePage(BaseDriver):
             self.driver.find_element(*self.SUPPORT_BTN)
             self.driver.find_element(*self.SIGNIN_BTN)
         except:
-            print("Navigation items missing/issue")
+            self.log.error("*** Navigation bar error. Potential missing elements? ***")
         else:
+            self.log.info("Navigation menu contains all expected elements")
             return True
 
 
@@ -81,11 +93,13 @@ class HomePage(BaseDriver):
             self.page_scroll()
             length_of_courses = len(self.driver.find_elements(*element))
         except:
-            print("Course list has items missing/issues")
+            self.log.error("*** Course list has items missing/issues ***")
         else:
             if length_of_courses == num_of_occurrences:
+                self.log.info("Number of expected displayed courses is correct")
                 return True
             else:
+                self.log.error("*** Number of courses displayed on website is more/less than expected ***")
                 return False
 
 

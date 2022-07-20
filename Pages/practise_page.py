@@ -1,10 +1,13 @@
+import logging
 from Base.base_driver import BaseDriver
 from selenium.webdriver.common.by import By
 from selenium.common.exceptions import *
 from selenium.webdriver.support.select import Select
+from Utilities.utils import custom_logger
 
 
 class PractisePage(BaseDriver):
+    log = custom_logger(logLevel=logging.INFO)
     def __init__(self, driver):
         super().__init__(driver)
         self.driver = driver
@@ -18,10 +21,6 @@ class PractisePage(BaseDriver):
     BENZ_CHECKBOX = (By.XPATH, "//input[@id='benzcheck']")
     HONDA_CHECKBOX = (By.XPATH, "//input[@id='hondacheck']")
     SWITCH_WINDOW_BTN = (By.XPATH, "//button[@id='openwindow']")
-    # (By.XPATH, "")
-    # (By.XPATH, "")
-    # (By.XPATH, "")
-    # (By.XPATH, "")
 
 
     def target_url(self):
@@ -35,6 +34,7 @@ class PractisePage(BaseDriver):
             btn = self.driver.find_element(*btn)
             btn.click()
             if not btn.is_selected():
+                self.log.error(f"*** Radio button error. Not able to selected {btn}")
                 condition = False
                 break
             else:
@@ -50,7 +50,7 @@ class PractisePage(BaseDriver):
             for num in range(length_of_select):
                 select.select_by_index(num)
         except NoSuchElementException:
-            print("Element not found")
+            self.log.error(f"*** Option in dropdown has not been found ***")
             return False
         else:
             return True
