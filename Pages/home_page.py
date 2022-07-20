@@ -7,7 +7,7 @@ import time
 
 from Base.base_driver import BaseDriver
 
-
+hi = "hi"
 class HomePage(BaseDriver):
     def __init__(self, driver):
         super().__init__(driver)
