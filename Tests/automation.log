@@ -1,14 +1,4 @@
-2022-07-20 23:23:22,698 - SignInPage - INFO: Clicking on Sign Up button
-2022-07-20 23:23:37,441 - SignInPage - ERROR: *** Login was: UNSUCCESSFUL ***
-2022-07-20 23:23:53,908 - SignInPage - INFO: Clicking on Sign Up button
-2022-07-20 23:24:12,495 - SignInPage - INFO: Login Successful
-2022-07-20 23:24:33,142 - SignInPage - INFO: Clicking on Sign Up button
-egisterPage - INFO: Ending2022-07-20 23:24:10,143 - HomePage - INFO: Clicking sign in button
-2022-07-20 23:24:24,077 - HomePage - INFO: Number of 2022-07-20 23:24:32,514 - RegisterPage 2022-07-20 23:24:32,514 - HomePage - INFO: C2022-07-20 23:24:36,907 2022-07-20 23:24:42,206 - HomePage - INFO: Clicking home button
-2022-07-20 23:24:42,860 - HomePage - INFO: Current URL is equal to Target URL
-2022-07-20 23:24:42,863 - HomePage - INFO: Clicking logo button
-2022-07-20 23:24:43,414 - HomePage - INFO: Current URL is equal to Target URL
-2022-07-20 23:24:43,417 - HomePage - INFO: Clicking all courses button
-2022-07-20 23:24:46,144 - HomePage - INFO: Current URL is equal to Target URL
-2022-07-20 23:24:46,148 - HomePage - INFO: Clicking support button
-2022-07-20 23:25:17,278 - HomePage - INFO: Current URL is equal to Target URL
+2023-11-14 10:40:49,008 - SignInPage - INFO: Clicking on Sign Up button
+ function
+2023-11-14 10:40:51,479 - RegisterPage - INFO: Ending 'register_user' function
+2023-11-14 10:40:51,486 - RegisterPage - INFO: Duplicate email message displaying: Yes
