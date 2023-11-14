@@ -1,13 +1,7 @@
 from Base.base_driver import BaseDriver
 from Utilities.utils import custom_logger
-from selenium import webdriver
 from selenium.webdriver.common.by import By
-from selenium.webdriver.support.select import Select
-from selenium.webdriver.common.action_chains import ActionChains
-from selenium.webdriver.common.window import WindowTypes
-import time
 import logging
-
 
 
 class HomePage(BaseDriver):
